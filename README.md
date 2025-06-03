@@ -3,16 +3,16 @@
 
 A fully responsive, minimalist weather app built with **React.js** and styled using **Tailwind CSS**. It fetches real-time weather data from the **OpenWeatherMap API**, allowing users to get weather updates by city.
 
-![License](https://img.shields.io/github/license/yourusername/react-weather-app)
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blueviolet?logo=tailwindcss)
-![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
+API Integration
+The app fetches data from OpenWeatherMap API
+
+
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [View Demo on render](https://your-weather-app.netlify.app](https://weather-app-88or.onrender.com)
+👉 [View Demo on render](https://weather-app-88or.onrender.com)
 
 ---
 
