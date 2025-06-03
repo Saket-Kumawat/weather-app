@@ -55,18 +55,3 @@ The app fetches data from OpenWeatherMap API
 4. React state is updated and UI components re-render with the data.
 
 ---
-
-## 📁 Project Structure
-react-weather-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── WeatherCard.jsx
-│ │ └── SearchBar.jsx
-│ ├── App.jsx
-│ ├── index.js
-│ └── styles.css
-├── .env
-├── package.json
-└── README.md
